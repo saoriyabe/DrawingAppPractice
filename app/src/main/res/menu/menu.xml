@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/change_line_color"
+        android:title="@string/changeLineColor"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/clear_path"
+        android:title="@string/clearPath"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/save_image"
+        android:title="@string/saveImage" />
+</menu>

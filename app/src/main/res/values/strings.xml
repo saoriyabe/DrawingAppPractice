@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Drawing App Practice</string>
+    <string name="changeLineColor">Change Line Color</string>
+    <string name="clearPath">Clear</string>
+    <string name="saveImage">Save</string>
+</resources>
